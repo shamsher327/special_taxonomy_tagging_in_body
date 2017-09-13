@@ -1,0 +1,4 @@
+name = Special Taxonomy Tagging In Body
+description = "Special Taxonomy tagging in body."
+core = "7.x"
+configure = admin/config/system/special-taxonomy-tagging
